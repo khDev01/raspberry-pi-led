@@ -1,0 +1,1000 @@
+  104  shutdown man
+  105  man shutdown
+  106  shutdown -r --reboot
+  107  man -y
+  108  man --y
+  109  man install
+  110  man apt-get install
+  111  sudo apt-get install apache2 -y
+  112  sudo ifconfig
+  113  sudo shutdown now
+  114  sudo service apache2 status
+  115  sudo iconfig
+  116  sudo ifconfig
+  117  ping raspi
+  118  sudo ifconfig wlan0
+  119  ping raspi
+  120  sudo
+  121  sudo apt-get install php libapache2-mod-php -y
+  122  sudo apt-get install php libapache2-mod-php 
+  123  sudo apt-get install php libapache2-mod-php --fix-missing
+  124  sudo apt-get install php libapache2-mod-php -y
+  125  sudo apt-get update
+  126  sudo apt-get install php libapache2-mod-php -y
+  127  cd /var/www/html
+  128  sudo nano index.php
+  129  sudo rm index.html
+  130  sudo service apache2 restart
+  131  cd..
+  132  cd ..
+  133  ls
+  134  sudo apt-get install mariadb-server mariadb-client php-mysql -y
+  135  sudo service apache2 restart
+  136  clear
+  137  cd /var/www/html
+  138  sudo nano index.php
+  139  sudo nano style.css
+  140  sudo nano index.php
+  141  sudo apt-get update
+  142  sudo apt-get install realvnc-vnc-server realvnc-vnc-viewer
+  143  sudo raspi-config
+  144  sudo ifconfig
+  145  hostname -i
+  146  sudo passwd pi
+  147  shutdown now
+  148  ls
+  149  cd /var/www/html
+  150  ls
+  151  sudo nano index.php
+  152  ls
+  153  /home
+  154  cd /home
+  155  ls
+  156  cd..
+  157  dc ..
+  158  cd ..
+  159  ls
+  160  cd ..
+  161  man history
+  162  history
+  163  cd Desktop
+  164  history > History.txt
+  165  cd ..
+  166  sudo chown www-data:www-data /var/www/html
+  167  sudo chmod 775 /var/www/html
+  168  sudo usermod -a -G www-data pi
+  169  sudo reboot -n
+  170  ls
+  171  cd /var/www/html
+  172  ls
+  173  ls -al
+  174  nano Delete.php
+  175  ls
+  176  ls -la
+  177  man rm
+  178  rm Delete.php
+  179  ls
+  180  rm index.php
+  181  sudo rm index.php
+  182  ls al
+  183  ls -al
+  184  mv A.php index.php
+  185  ls
+  186  rm index.php.save
+  187  ls
+  188  sudo rm index.php.save
+  189  ls
+  190  rm style.css
+  191  ls
+  192  ls al
+  193  ls -al
+  194  nano index.php
+  195  ls
+  196  cd /var/www/html
+  197  ls
+  198  rm style.css
+  199  ls
+  200  find -name "style"
+  201  ls
+  202  ls -l /home/pi/files
+  203  ls -l /home/pi
+  204  df
+  205  df -h
+  206  df -bm
+  207  df -Bm
+  208  clear
+  209  ls
+  210  history -h
+  211  history
+  212  clear
+  213  cd /www/html
+  214  cd /var/www/html
+  215  ls -al
+  216  shutdown now
+  217  sudo shutdown
+  218  sudo shutdown -n
+  219  sudo shutdown now
+  220  cd var/www/html
+  221  cd /var/www/html
+  222  ls
+  223  mv * /Desktop
+  224  mv * /home/Desktop
+  225  ls
+  226  cd /var/www/html
+  227  sudo mv * /home/Desktop
+  228  sudo mv * /home/Desktop/
+  229  ls
+  230  le
+  231  sudo mv * /Desktop/
+  232  cp * /home/Desktop
+  233  cp index.html /home/Desktop
+  234  cp index.php /home/Desktop
+  235  sudo cp index.php /home/Desktop
+  236  cp * /home/pi/Desktop/web
+  237  man -r
+  238  man cp -r
+  239  man cp
+  240  cd /var/www/html
+  241  ls
+  242  sudo mv /HowTo /home/pi/Desktop/web
+  243  sudo mv HowTo /home/pi/Desktop/web
+  244  ls
+  245  rm *
+  246  ls
+  247  sudo wget http://wordpress.org/latest.tar.gz
+  248  sudo tar xzf latest.tar.gz
+  249  sudo mv wordpress/* .
+  250  sudo rm -rf wordpress latest.tar.gz
+  251  man tree
+  252  cd /var/www/html
+  253  ls
+  254  tree -L
+  255  tree -L l
+  256  tree -L 1
+  257  sudo chown -R www-data: .
+  258  sudo mysql_secure_installation
+  259  sudo mysql -uroot -p
+  260  cd /var/www/html
+  261  ls
+  262  ls -al
+  263  tree -L 1
+  264  ls
+  265  sudo shutdown 
+  266  sudo shutdown now
+  267  history
+  268  sudo mysql
+  269  sudo mysql WordPressed
+  270  sudo mysql -uroot -p
+  271  sudo shutdown now
+  272  cd /var/www/html
+  273  sudo mysql -uroot -p
+  274  sudo mysql -uroot 
+  275  sudo mysql -u root 
+  276  sudo mysql -u root -p
+  277  sudo mysql_secure_installation
+  278  sudo mysql -uroot -p
+  279  YOURPASSWORD
+  280  sudo mysql -uroot -p
+  281  hostname -I
+  282  sudo a2enmod rewrite
+  283  sudo leafpad /etc/apache2/sites-available/000-default.conf
+  284  sudo service apache2 restart
+  285  sudo shutdown
+  286  sudo shutdown now
+  287  cd /var/www/html
+  288  ls
+  289  nano index.php
+  290  rm 8
+  291  rm *
+  292  ls
+  293  sudo rm *
+  294  rm -r *
+  295  sudo rm -r *
+  296  ls
+  297  mysql -u root -p 
+  298  sudo shutdown 
+  299  sudo shutdown now
+  300  man git
+  301  man git config
+  302  man git config --global
+  303  git config --global username "Rpi Hussk"
+  304  git config --global user.name "Rpi Hussk"
+  305  git config --global user.email "kasimh2001@outlook.com"
+  306  git config --global core.editor nano
+  307  ls
+  308  cd Desktop
+  309  cd ..
+  310  mkdir newgitdir
+  311  cd newgitdir
+  312  nano README.md
+  313  ls
+  314  git init
+  315  ls
+  316  ls -a
+  317  ls -a .git
+  318  git add README.md
+  319  git status
+  320  git commit -am "add README.md"
+  321  ls
+  322  nano led.py
+  323  git add --all
+  324  git commit -am "add led.py"
+  325  git log REAMDME.md
+  326  git log led.py
+  327  clear
+  328  led.py
+  329  ls
+  330  touch led.py
+  331  ls
+  332  nano led.py
+  333  git add --all
+  334  git commit -am "add imports to led.py "
+  335  nano led.py
+  336  git add --all
+  337  git commit -am "Removed pin var"
+  338  git log led.py
+  339  git checkout 480fb44418fb9e047c0e54dc08d734025ea4e8c2
+  340  480fb44418fb9e047c0e54dc08d734025ea4e8c2
+  341  git checkout 480fb44418fb9e047c0e54dc08d734025ea4e8c2 led.py
+  342  git commit -am 'Restore led var'
+  343  ls
+  344  cd newgitdir
+  345  git status
+  346  git checkout -b lidar-version
+  347  git status
+  348  git branch
+  349  git branch -D lidar-version
+  350  sudo git branch -D lidar-version
+  351  git checkout master
+  352  git branch -D lidar-version
+  353  git checkout -b new-branch
+  354  git status
+  355  git branch
+  356  git checkout master
+  357  git checkout new-branch
+  358  ls
+  359  nano ledRBG.py
+  360  ls
+  361  git commit -am 'Add ledRGB.py'
+  362  git add --all
+  363  git commit -am 'Add ledRGB.py'
+  364  git checkout master
+  365  git merge new-branch
+  366  git remote add origin git@github.com:khDev01/raspberry-pi-led.git
+  367  git push -u origin master
+  368  git remote add origin https://github.com/khDev01/raspberry-pi-led.git
+  369  git push -u origin master
+  370  git remote add origin https://github.com/khDev01/raspberry-pi-led.git
+  371  git push -u origin master
+  372  git remote add origin git@github.com:khDev01/raspberry-pi-led.git
+  373  git push -u origin master
+  374  ls
+  375  cd..
+  376  cd ..
+  377  ls
+  378  cd newgitdir
+  379  ls -al ~/.ssh
+  380  git config --global user.email
+  381  ssh-keygen -t rsa -b 4096 -C "kasimh2001@outlook.com"
+  382  ls -al ~/.ssh
+  383  # start the ssh-agent in the background
+  384  $ eval $(ssh-agent -s)
+  385  eval $(ssh-agent -s)
+  386  ssh-add ~/.ssh/id_rsa
+  387  clip < ~/.ssh/id_rsa.pub
+  388  git push -u origin master
+  389  nano README.md
+  390  git add -all
+  391  git add --all
+  392  git commit -am 'Changed README.md'
+  393  git push origin master
+  394  nano README.md
+  395  git add --all
+  396  git commit -am 'Changed README.md bullet point'
+  397  git push origin master
+  398  ls
+  399  mkdir gitrepos
+  400  cd gitrepos
+  401  mkdir learning-git
+  402  cd learning-git
+  403  git init
+  404  nano README.md
+  405  git add *
+  406  git commit -am 'Add README.md'
+  407  git push origin master
+  408  git remote add origin git@github.com:khDev01/learning-git.git
+  409  git push -u origin master
+  410  nano README.md
+  411  git push origin master
+  412  git add *
+  413  git commit -am 'Ammend README.md'
+  414  git push origin master
+  415  gitk
+  416  git config color.ui true
+  417  git status
+  418  git log
+  419  cd ..
+  420  bower install HTML5-Reset
+  421  sudo shutdown now
+  422  cd /var/www/html/KHweb/
+  423  cd /Home
+  424  ls
+  425  cd Home
+  426  ls
+  427  nano head.php
+  428  ls
+  429  nano web.txt
+  430  nano nav.php
+  431  sudo shutdown now
+  432  cd MagPi
+  433  ls
+  434  heaf MagPi70.pdf
+  435  head MagPi70.pdf
+  436  cat MagPi70.pdf
+  437  ls
+  438  cd Desktop
+  439  nano learn.txt
+  440  nano web.txt
+  441  sudo shutdown now
+  442  sudo cp /boot/config.txt /boot/config.txt.backup
+  443  sudo nano /boot/config.txt
+  444  sudo reboot
+  445  sudo nano/boot/config.txt
+  446  sudo nano /boot/config.txt
+  447  sudo reboot
+  448  sudo shutdown
+  449  sudo nano /boot/config.txt
+  450  sudo reboot
+  451  sudo nano /boot/config.txt
+  452  sudo reboot
+  453  sudo nano /boot/config.txt
+  454  sudo reboot
+  455  sudo nano /boot/config.txt
+  456  sudo reboot
+  457  sudo nano /boot/config.txt
+  458  vcgencmd measure_temp
+  459  cat /sys/class/thermal/thermal_zone0/temp
+  460  sudo apt update
+  461  apt list --upgradeable
+  462  vcgencmd measure_temp
+  463  ls
+  464  cd Music
+  465  ls
+  466  cd ..
+  467  man del
+  468  man deldir
+  469  help
+  470  info
+  471  ls
+  472  rm Music
+  473  rmdir Music
+  474  ls
+  475  man ls
+  476  ls -h
+  477  cd oldconffiles
+  478  ls
+  479  cd ..
+  480  cd Public
+  481  ls
+  482  vcgencmd measure_temp
+  483  cd gitrepos
+  484  cd ..gitrepos
+  485  cd ../gitrepos
+  486  ls
+  487  cd learning-git
+  488  ls
+  489  nano README.md
+  490  ifconfig eth0
+  491  hostname -I
+  492  hostname 
+  493  hostname -h
+  494  hostname -s
+  495  hostname y
+  496  hostname -y
+  497  hostname -f
+  498  hostname -d
+  499  hostname -a
+  500  hostname -i
+  501  hostname -I
+  502  cd var/www/html
+  503  cd var/www/
+  504  cd var/www
+  505  cd var
+  506  ls
+  507  cd ..
+  508  cd..
+  509  cd ../var/www
+  510  ls
+  511  cd/html
+  512  cd /html
+  513  cd html
+  514  ls
+  515  cat flex.css
+  516  [Desktop Entry]
+  517  Name=Name to be shown on desktop
+  518  Comment=My comment
+  519  Icon=/usr/share/pixmaps/openbox.xpm
+  520  Exec=lxterminal -t "Tile to display" -e sleep 5
+  521  Type=Application
+  522  Encoding=UTF-8
+  523  Terminal=false
+  524  Categories=None;
+  525  raspi-config
+  526  sudo raspi-config
+  527  sudo raspi-config
+  528  sudo reboot
+  529  sudo raspi-config
+  530  sudo reboot
+  531  sudo raspi-config
+  532  qlug
+  533  quit
+  534  sudo raspi-config
+  535  sudo reboot
+  536  $ df -h /
+  537  df -h /
+  538  df -h 
+  539  df  
+  540  dpkg-query -W -f='${Installed-Size;8}  ${Package}\n' | sort -nr | head -10
+  541  df -h /
+  542  df -h 
+  543  dpkg-query -W -f='${Installed-Size;8}  ${Package}\n' | sort -nr | head -10
+  544  cd Desktop
+  545  ls
+  546  ls -h
+  547  history
+  548  sudo apt get upgrade
+  549  sudo apt-get upgrade
+  550  dpkg-query -W -f='${Installed-Size;8}  ${Package}\n' | sort -nr | head -10
+  551  df -h /
+  552  df -h 
+  553  df -h /
+  554  1+1
+  555  help1
+  556  1
+  557  help
+  558  time
+  559  time -p
+  560  info
+  561  time
+  562  time now
+  563  time info
+  564  time help
+  565  help time
+  566  time -p
+  567  time cp -p 
+  568  time -p cp  
+  569  time cp -p 
+  570  time -p cd
+  571  time -p cd /Desktop
+  572  time -p ls
+  573  time -p cd Desktop
+  574  time -p cd ..
+  575  ..
+  576  history -h
+  577  history 
+  578  sudo nano /boot/config.txt
+  579  sudo rebot
+  580  reboot
+  581  sudo nano /boot/config.txt
+  582  reboot
+  583  sudo nano /boot/config.txt
+  584  reboot
+  585  sudo nano /boot/config.txt
+  586  reboot
+  587  sudo nano /boot/config.txt
+  588  reboot
+  589  sudo nano /boot/config.txt
+  590  reboot
+  591  sudo nano /boot/config.txt
+  592  reboot
+  593  sudo nano /boot/config.txt
+  594  reboot
+  595  sudo nano /boot/config.txt
+  596  man pip
+  597  pip list
+  598  sudo pip3 install guizero
+  599  python3 creatingDictionaryFromLists.py
+  600  cd Desktop
+  601  python3 creatingDictionaryFromLists.py
+  602  leafpad words.txt
+  603  sudo aot-get install cups
+  604  sudo apt-get install cups
+  605  sudo usermod -a -G lpadmin pi
+  606  sudo nano /etc/cups/cupsd.conf
+  607  sudo /etc/init.d/cups restart
+  608  hostname -I
+  609  sudo nano /etc/cups/cupsd.conf
+  610  sudo /etc/init.d/cups restart
+  611  sudo apt update
+  612  sudo nano /etc/cups/cupsd.conf
+  613  sudo /etc/init.d/cups restart
+  614  cd Desktop/Kasim
+  615  ls
+  616  mkdir Git
+  617  ls
+  618  cd git
+  619  cd Git
+  620  cd ..
+  621  cd Git
+  622  cd ..
+  623  mkdir bootstrap
+  624  cd bootstrap
+  625  git init
+  626  cd ..
+  627  rmdir bootstrap
+  628  sudo rmdir bootstrap
+  629  rm bootstrap
+  630  rm -r bootstrap
+  631  ls
+  632  rm -r Git
+  633  ls
+  634  git clone https://khDev01@github.com/khDev01/bootstrap.git
+  635  ls
+  636  cd bootstrap
+  637  ls
+  638  nano index.html
+  639  ls
+  640  leafpad README.md
+  641  git add *
+  642  git commit -m "create index.html"
+  643  git push origin master
+  644  cd Desktop/Kasim/bootstrap
+  645  leafpad index.html
+  646  Geany index.html
+  647  geany index.html
+  648  nano index.html
+  649  cd Desktop/Kasim/bootstrap
+  650  nano index.html
+  651  open /var
+  652  man open
+  653  man file
+  654  man lxterminal
+  655  lxterminal
+  656  -t
+  657  -t "Tile to display" -e sleep 5
+  658  cd /var/www/html
+  659  ln -s ~/var/www/html ~/Dektop/
+  660  ln -s ~/var/www/html ~/Dektop
+  661  man ln
+  662  cd ..
+  663  ln -s ~/Documnets ~/Deskop
+  664  gksu man
+  665  man gksu
+  666  gksu leafpad
+  667  xdg-open
+  668  xdg-open .
+  669  xdg-open /var/www/html
+  670  sudo apt-get install sane sane-utils
+  671  scanimage -L
+  672  dpkg -l hplip
+  673  dpkg -r hplip
+  674  sudo dpkg -r hplip
+  675  cd Downloads
+  676  ls
+  677  sh hplip-3.20.2.run
+  678  sudo sh hplip-3.20.2.run
+  679  xxxxxxx
+  680  sudo dpkg -r hplip
+  681  sudo apt-get install filezilla
+  682  history -h
+  683  history man
+  684  man  history
+  685  history
+  686  df -h
+  687  clear
+  688  gpio readall
+  689  gpio readall -h
+  690  git clone https://github.com/jdorsey2/html.first.git
+  691  ls
+  692  history
+  693  ls
+  694  rm -r html.first
+  695  ls
+  696  cd gitrepos
+  697  ls
+  698  mkdir cloned
+  699  cd cloned
+  700  git clone https://github.com/jdorsey2/html.first.git
+  701  git add *
+  702  ls
+  703  cd html.first
+  704  git add *
+  705  git commit -m "create index.html"
+  706  git push origin master
+  707  git remote -v
+  708  git merge
+  709  git merge master
+  710  cd ..
+  711  git https://github.com/GarimaChauhan16/GarimaChauhan16.github.io.git
+  712  git clone https://github.com/GarimaChauhan16/GarimaChauhan16.github.io.git
+  713  g objects: 100% (232/232), done.
+  714  remote: Compressing objects: 100% (182/182), done.
+  715  remote: Total 232 (delta 71), reused 194 (delta 42), pack-reused 0
+  716  Receiving objects: 100% (232/232), 13.41 MiB | 2.62 MiB/s, done.
+  717  Resolving deltas: 100% (71/71), done.
+  718  ***
+  719  # use
+  720  # use "Ctrl + Shift + C|V" to copy|paste
+  721  npm man
+  722  man npm
+  723  history
+  724  gpio readall#
+  725  gpio readall
+  726  sudo gedit /var/www/testphp.php
+  727  sudo nano /var/www/testphp.php
+  728  sudo mv /var/www/testphp.php /var/www/html/test.php
+  729  # php files now open: reason non; reboot? 
+  730  # reason found: wrong file path 
+  731  gpio readall
+  732  gpio man
+  733  man gpio
+  734  gpio readall
+  735  gpio man
+  736  man gpio
+  737  gpio read 11
+  738  man gpio
+  739  gpio blink 11
+  740  gpio readall
+  741  gpio blink 11
+  742  gpio readall
+  743  gpio toggle 11
+  744  gpio readall
+  745  man gpio
+  746  gpio 11 in
+  747  gpio toggle 11 in
+  748  gpio toggle 11 
+  749  man gpio
+  750  gpio readall
+  751  gpio mode 11 in
+  752  gpio readall
+  753  gpio blink 0
+  754  gpio readall
+  755  gpio blink 0
+  756  gpio readall
+  757  gpio mode 0 in
+  758  gpio readall
+  759  nano /etc/sudoers
+  760  sudo nano /etc/sudoers
+  761  gpio readall
+  762  run /home/pi/Desktop/Kasim/Test/led.py
+  763  python3 /home/pi/Desktop/Kasim/Test/led.py
+  764  gpio readall
+  765  cd /etc/
+  766  ls
+  767  sudo nano sudoers
+  768  history
+  769  gpio mode 11 in
+  770  gpio mode 0 in
+  771  gpio readall
+  772  gpio mode 0 in
+  773  gpio readall
+  774  gpio mode 0 in
+  775  gpio readall
+  776  gpio mode 0 in
+  777  gpio readall
+  778  gpio mode 0 in
+  779  sudo nano sudoers
+  780  gpio mode 0 out
+  781  gpio mode 0 in
+  782  gpio mode 0 out
+  783  # fixing flashing fast led not staying on after 'gpio mode 0 out' instead is flashing
+  784  gpio readall
+  785  gpio mode 0 in
+  786  gpio mode 0 out
+  787  gpio mode 0 in
+  788  # LED works as normal after reboot
+  789  sudo nano /etc/sudoers
+  790  gpio readall
+  791  man touch
+  792  ls
+  793  mkdir web
+  794  cd web
+  795  cp /home/pi/Desktop/Kasim/Test/led.py /home/pi/Documents/web/ledon.py
+  796  ls
+  797  cat ledon.py
+  798  python3 /home/pi/Desktop/Kasim/Test/led.py
+  799  clear
+  800  history
+  801  python3 /home/pi/Desktop/Kasim/Test/led.py
+  802  ir
+  803  ls
+  804  cd gitrepos
+  805  ls
+  806  hispory
+  807  history
+  808  git clone https://github.com/khDev01/skills.git
+  809  ls
+  810  cd skills
+  811  ls
+  812  nano template.md
+  813  git add *
+  814  PHP.md
+  815  nano p
+  816  nano PHP.md
+  817  nano template.md
+  818  leafpad template.md
+  819  nano template.md
+  820  nano PHP.md
+  821  git add *
+  822  git commit -m "add php content"
+  823  git push origin master
+  824  cd gitrepos
+  825  cd skills
+  826  git pull
+  827  git add markdown.md
+  828  git commit -m "Add code markdown"
+  829  git add template.md
+  830  git commit -m "Add code markdown"
+  831  git push origin master
+  832  ls
+  833  cd gitrepos/skills
+  834  leafpad PHP.md
+  835  cd gitrepos/skills
+  836  git checkout -b changes
+  837  git add *
+  838  git commit -m "change layout"
+  839  git push origin changes
+  840  git checkout master
+  841  git pull
+  842  rm language.md
+  843  git add *
+  844  git push origin changes
+  845  git commit -m "remove duplicate"
+  846  git checkout master
+  847  git push origin master
+  848  git commit -am "remove duplicate"
+  849  git push origin master
+  850  leafpad js.js
+  851  git init
+  852  ls
+  853  nano README.md
+  854  git add * 
+  855  git commit -am "intial commit"
+  856  git push origin master
+  857  git remote add origin git@github.com:khDev01/languages.git
+  858  git push origin master
+  859  git push -u origin master
+  860  git remote add origin https://github.com/khDev01/languages.git
+  861  git remote set-url origin https://github.com/khDev01/languages.git
+  862  git push -u origin master
+  863  git add * 
+  864  git commit -am "rm old"
+  865  cd gitrepos ls
+  866  cd gitrepos 
+  867  .. ls 
+  868  ls
+  869  cd web
+  870  lr
+  871  ls
+  872  ls
+  873  git add * 
+  874  git commit -am "create nav"
+  875  git push origin master
+  876  git status
+  877  git add *
+  878  git commit -m "add html file"
+  879  git push origin master
+  880  # disable apache as not using at moment
+  881  # use enable instead of disable to start server again
+  882  sudo update-rc.d apache2 disable
+  883  service apache2 stop
+  884  sudo service apache2 stop
+  885  git status
+  886  git add html.html index.html style.css
+  887  git commit -m "create containers"
+  888  git status
+  889  git add css.html css.css
+  890  git commit -am "create css.html"
+  891  git status
+  892  git add *
+  893  git commit -am "add htaccess file"
+  894  git add .htaccess
+  895  git commit -am "add htaccess file"
+  896  git status
+  897  git push
+  898  cd ..
+  899  history
+  900  df -h /
+  901  df -h 
+  902  df -h /
+  903  df -h 
+  904  df -h /Desktop
+  905  cd Desktop
+  906  df -h /
+  907  df -h 
+  908  df -h /pi
+  909  df -h /home/pi/Desktop
+  910  df -h /home
+  911  df  
+  912  git status
+  913  cd/skills
+  914  cd skills
+  915  ls
+  916  cd Zero3
+  917  git staus
+  918  git status
+  919  git add * 
+  920  git commit -m "add flexbox content"
+  921  git push origin
+  922  cd Downloads
+  923  sudo fdisk-l
+  924  sudo fdisk -l
+  925  sudo dd if=manjaro-kde-19.0.2-200311-linux54.iso of=/dev/sda1 bs=4M
+  926  sudo dd if=manjaro-kde-19.0.2-200311-linux54.iso of=/dev/sda1 bs=4M staus=progress
+  927  sudo fdisk -l
+  928  ls
+  929  cd Desktop
+  930  cd /Documents
+  931  cd ./Documents
+  932  cd ..Documents
+  933  cd ../Documents
+  934  cd .. Documents
+  935  cd ..//Documents
+  936  ls
+  937  mkdir cmdTest
+  938  mkdir testing
+  939  touch cmdTest/free.txt
+  940  ls cmdTest
+  941  mv cmdTest cmdtest
+  942  ls
+  943  ls cmdtest
+  944  ls -h
+  945  ls -R
+  946  rmdir Wolfram Mathematica
+  947  rmdir WolframMathematica
+  948  rmdir Wolfram+Mathematica
+  949  rmdir Wolfram
+  950  ls
+  951  rmdir 'Wolfram Mathematica'
+  952  ls
+  953  user
+  954  sudo su
+  955  pwd
+  956  date
+  957  uptime
+  958  whoami
+  959  locate free.txt
+  960  find free.txt
+  961  uname -a
+  962  sudo apt-get upgrade
+  963  sudo apt-get update
+  964  sudo apt-get upgrade
+  965  sudo apt autoremove
+  966  su sudo
+  967  sudo su
+  968  sudo apt-get remove --purge libreoffice*
+  969  sudo apt-get clean
+  970  sudo apt-get autoremove
+  971  sudo apt-get update 
+  972  sudo apt-get upgrade
+  973  sudo apt-get install libreoffice
+  974  sudo apt-get dist-upgrade
+  975  sudo fdisk-l
+  976  sudo fdisk -l
+  977  df -h /home
+  978  git add *
+  979  git commit -m "default index.html"
+  980  git reset HEAD^
+  981  git add .htaccess
+  982  git commit -m "default index.html"
+  983  git log
+  984  git log | less
+  985  git lg | fold --width=1000
+  986  git --no-pager log
+  987  git log --format=<format> [hash|HEAD]
+  988  git log --pretty=full
+  989  git statis
+  990  git status
+  991  git add css.css css.html
+  992  git commit -am ""
+  993  git add backup.css
+  994  git status
+  995  git push
+  996  git reset head
+  997  git reset HEAD
+  998  git status
+  999  git log --oneline
+ 1000  # git log --oneline
+ 1001  history
+ 1002  sudo service apache2 restart
+ 1003  sudo nano /boot/config.txt
+ 1004  vnc server
+ 1005  real-vnc-vnc-server
+ 1006  open real-vnc-vnc-server
+ 1007  locate real-vnc-vnc-server
+ 1008  start real-vnc-vnc-server
+ 1009  restart real-vnc-vnc-server
+ 1010  sudo raspi-config
+ 1011  sudo service apache2 restart
+ 1012  1
+ 1013  2
+ 1014  3
+ 1015  cd /var/www/html
+ 1016  1
+ 1017  2
+ 1018  3
+ 1019  cd /var/www/html
+ 1020  sudo rm -rf ./*
+ 1021  sudo wget http://wordpress.org/latest.tar.gz
+ 1022  sudo tar xzf latest.tar.gz
+ 1023  sudo mv wordpress/*
+ 1024  sudo mv wordpress/* .
+ 1025  sudo rm -rf wordpress latest.tar.gz
+ 1026  sudo ls -l
+ 1027  sudo chown -R www-data:www-data .
+ 1028  sudo ls -l
+ 1029  sudo mysql
+ 1030  mysql
+ 1031  sudo su
+ 1032  sudo mysql
+ 1033  mysql -u root
+ 1034  sudo shutdown
+ 1035  sudo mysql
+ 1036  raspi-config
+ 1037  sudo raspi-config
+ 1038  clear
+ 1039  sudo apt-get update
+ 1040  sudo apt-get upgrade -y
+ 1041  which apache2
+ 1042  sudo a2enmod rewrite
+ 1043  sudo service apache2 restart
+ 1044  sudo nano /etc/apache2/apache2.conf
+ 1045  sudo service apache2 restart
+ 1046  ifconfig eth0
+ 1047  hostname -I
+ 1048  # wordpress works setting up now
+ 1049  which php
+ 1050  which libapache2-mod-php
+ 1051  which mariadb-server
+ 1052  which php-mysql
+ 1053  sudo apt-get install mariadb-server mariadb-client php-mysql -y
+ 1054  sudo service apache2 restart
+ 1055  1
+ 1056  2
+ 1057  sudo apt-get install phpmyadmin -y
+ 1058  whoami
+ 1059  vcgencmd measure_volts
+ 1060  vcgencmd measure_temp
+ 1061  vcgencmd measure_volts
+ 1062  hostname -i
+ 1063  hostname -I
+ 1064  cd Desktop/
+ 1065  python3 PingTest.py
+ 1066  pip install pythonping
+ 1067  cd Desktop/
+ 1068  python3 PingTest.py
+ 1069  python PingTest.py
+ 1070  python3 PingTest.py
+ 1071  pip install pythonping
+ 1072  python3 PingTest.py
+ 1073  python PingTest.py
+ 1074  python Pingtest.py
+ 1075  python PingTest.py
+ 1076  sudo apt update
+ 1077  sudo apt full-upgarde
+ 1078  sudo apt upgrade
+ 1079  sudo apt list --upgradable
+ 1080  sudo apt upgrade
+ 1081  sudo dpkg --configure -a
+ 1082  sudo apt-get upgrade
+ 1083  sudo reboot
+ 1084  cd Desktop/
+ 1085  pip install pythonping
+ 1086  ..
+ 1087  /~
+ 1088  ~/
+ 1089  `
+ 1090  hostname -I
+ 1091  hostname 
+ 1092  vcgencmd measure_temp
+ 1093  whoami
+ 1094  ping
+ 1095  ping 192.168.0.38
+ 1096  ifconfig
+ 1097  ls
+ 1098  pip
+ 1099  pip install numpy
+ 1100  ifconfig
+ 1101  mkdir kasimpy
+ 1102  history
+ 1103  history > myhistory.txt

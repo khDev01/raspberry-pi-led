@@ -1,0 +1,73 @@
+/* Modal */
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+/* Login */
+
+form.login {
+  border: 3px solid #f1f1f1;
+}
+
+input.login[type=text], input.login[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.loginbtn  {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.cancelbtn-login {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+button:hover, .cancelbtn:hover {
+  opacity: 0.8;
+}
+
+.imgcontainer-login {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar-login {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container-login {
+  padding: 16px;
+}
+
+span.psw-login {
+  float: right;
+  padding-top: 16px;
+}
+
+
+@media screen and (max-width: 300px) {
+  span.psw-login {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+}
+
+/* End of login */
+
+/**/

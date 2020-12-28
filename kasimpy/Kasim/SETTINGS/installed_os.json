@@ -1,0 +1,21 @@
+[
+ {
+  "bootable" : true,
+  "description" : "A port of Debian Stretch for the Raspberry Pi (full desktop version)",
+  "folder" : "/mnt/os/Raspbian",
+  "icon" : "/mnt/os/Raspbian/Raspbian.png",
+  "name" : "Raspbian",
+  "partitions" : [
+"/dev/mmcblk0p6",
+"/dev/mmcblk0p7"
+  ],
+  "release_date" : "2018-06-27",
+  "supported_models" : [
+"Pi Model",
+"Pi 2",
+"Pi Zero",
+"Pi 3",
+"Pi Compute Module 3"
+  ]
+ }
+]

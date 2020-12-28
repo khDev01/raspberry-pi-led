@@ -1,0 +1,32 @@
+Linux commands
+
+Filesystem 
+
+   ls – lists content in current directory
+   cd – change directory
+  pwd – displays current directory path
+mkdir – create new directory
+rmdir – removes a directory (only if empty)
+   rm – removes file from directory
+   cp – copy and paste file in a specified directory
+   mv – moves file to a specified location
+touch – set last modified timestamp of specified file/s or creates it if it does not exist
+  cat – list content of files
+ head – display beginning of file (default 10 lines)
+ tail – display end of file (default 10 lines)
+chmod – change permission for a file
+chown – changes user/ group who owns file
+  ssh – denotes the secure shell
+  scp – copies file from one computer to another using ssh
+ sudo – run command as a supervisor or another user
+   dd – copies a file converting it as specified (normally used to copy entire disk to single file)
+   df – display disk space available and used on the mounted filesystems 
+unzip – extracts files from zipped file
+  tar – store or extract files from a tape archive file. Can reduce space by compressing file similar to zip a file
+    | – (pipe command) allows output form one command can be used as input for another 
+ tree – displays directory and all subdirectories and files indented in a tree structure
+    & – run command in background with & freeing up the shell for future commands
+ wget – download a file from the web
+ curl – download or upload a file to/from a server (deafault: output the file contents)
+  man – displays a manual page (man man shows manual page of man command)
+   wc – display number of bytes, words and lines in files

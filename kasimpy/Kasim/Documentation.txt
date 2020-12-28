@@ -1,0 +1,85 @@
+
+'hostname -I' command get IP
+"cntrl + F5" refresh browser cache (shows changes)
+
+
+
+/* create desktop shortcut
+create name.desktop in desktop
+copy inside file in txt editor:
+link to web: 
+'
+[Desktop Entry]
+Type=Link
+Name=mywebsite
+Comment=learning platform
+Icon=/home/pi/raspberrypi.jpg
+URL=http://www.raspberrypi.org
+'
+link to app:
+' 
+[Desktop Entry]
+Type=Application
+Name=My Name
+Comment=My application which does this
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=/usr/bin/leafpad
+Encoding=UTF-8
+Terminal=false
+Categories=None;
+'
+Execute lx command:
+'
+[Desktop Entry]
+Type=Application
+Name=Name to be shown on desktop
+Comment=My comment
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=lxterminal -t "Tile to display" -e sleep 5
+Encoding=UTF-8
+Terminal=false
+Categories=None;
+'
+end of create dekctop shortcut */
+
+/*Generic 105 key intl pc*/
+
+installed GIMP
+
+For 1280x720 {
+
+disable_overscan=1
+
+overscan_left=40
+overscan_right=40
+overscan_top=30
+overscan_bottom=30
+}
+
+For 1920x1080 16:9 CEA mode 31 {
+disable_overscan=1
+
+overscan_left=60
+overscan_right=60
+overscan_top=40
+overscan_bottom=40
+}
+
+?installed 'giozero' with pip
+
+
+13/3/20Got PHP to Run Python Trough terminal by: 
+https://www.raspberrypi.org/forums/viewtopic.php?t=24032
+	Code: Select all
+	cd /etc/
+	sudo nano sudoers
+	*I added this line to the bottom of the file:*
+	www-data ALL=(root) NOPASSWD:ALL
+	
+	PROBLEM occured after working:
+	led flashes fast and time.sleep has no effect but print is following tme.sleep
+
+
+
+https://raspberrypi.stackexchange.com/questions/23615/how-do-i-stop-a-python-script-from-running-via-a-webpage
+https://stackoverflow.com/questions/37421589/how-to-stop-python-script-when-run-it-from-website-php

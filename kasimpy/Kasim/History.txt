@@ -1,0 +1,164 @@
+    1  ls
+    2  cd Desktop
+    3  touch test.py
+    4  word.txt
+    5  touch word.txt
+    6  cd Desktop
+    7  sudo python led.py
+    8  cd Desktop
+    9  rm word.tc#xt
+   10  rm word.txt
+   11  man rm
+   12  header led.py
+   13  head led.py
+   14  foot led.py
+   15  cat
+   16  cat led.py
+   17  wc led.py
+   18  cd Desktop
+   19  wc led.py
+   20  cat led.py
+   21  pwd
+   22  cd ..
+   23  man cd
+   24  clear
+   25  cd Desktop
+   26  ls -l
+   27  touch test.py
+   28  ld#s -l
+   29  ls -l
+   30  config
+   31  man sudo
+   32  clear
+   33  mkdir Kasim
+   34  mkdir Test
+   35  rmdir Kasim
+   36  cd Desktop
+   37  mkdir Kasim
+   38  sudo vim rgbLed.py
+   39  sudo vim RGBledv1.py
+   40  cd Desktop
+   41  cd Kasim
+   42  mono Example1.py
+   43  man mono
+   44  nano Example1.py
+   45  head Example1.py
+   46  ls
+   47  cd Documents
+   48  ls
+   49  mkdir project
+   50  cd project
+   51  nano hello.pi
+   52  python3 hello.pi
+   53  nano
+   54  sudo shutdown -h now
+   55  minecraft-pi
+   56  mincraft-pi
+   57  minecraft-pi
+   58  cd Desktop
+   59  ls
+   60  cd Kasim
+   61  ls
+   62  python Example.py
+   63  cd /home/pi/pytohn_games
+   64  l
+   65  ls
+   66  cd python_games
+   67  ls
+   68  cd home
+   69  cd opt/vc/src/hello_pi
+   70  /cd opt/vc/src/hello_pi
+   71  cd /opt/vc/src/hello_pi
+   72  ls
+   73  python
+   74  sudo python RGB.py
+   75  ls
+   76  cd Desktop
+   77  sudo nano RGB.py
+   78  sudo python RGB.py
+   79  shutdown -now
+   80  man shutdown
+   81  shutdown -h now
+   82  username
+   83  help
+   84  time
+   85  sudo apt-get update
+   86  sudo apt-get upgrade -y
+   87  restart
+   88  sudo restart
+   89  help
+   90  sudo help
+   91  help sudo
+   92  man
+   93  help
+   94  help man
+   95  man help
+   96  man resart
+   97  man shutdown
+   98  shutdown -r
+   99  shitdown -c
+  100  shutdown -c#
+  101  shutdown -c
+  102  shutdown --reboot
+  103  shutdown -c
+  104  shutdown man
+  105  man shutdown
+  106  shutdown -r --reboot
+  107  man -y
+  108  man --y
+  109  man install
+  110  man apt-get install
+  111  sudo apt-get install apache2 -y
+  112  sudo ifconfig
+  113  sudo shutdown now
+  114  sudo service apache2 status
+  115  sudo iconfig
+  116  sudo ifconfig
+  117  ping raspi
+  118  sudo ifconfig wlan0
+  119  ping raspi
+  120  sudo
+  121  sudo apt-get install php libapache2-mod-php -y
+  122  sudo apt-get install php libapache2-mod-php 
+  123  sudo apt-get install php libapache2-mod-php --fix-missing
+  124  sudo apt-get install php libapache2-mod-php -y
+  125  sudo apt-get update
+  126  sudo apt-get install php libapache2-mod-php -y
+  127  cd /var/www/html
+  128  sudo nano index.php
+  129  sudo rm index.html
+  130  sudo service apache2 restart
+  131  cd..
+  132  cd ..
+  133  ls
+  134  sudo apt-get install mariadb-server mariadb-client php-mysql -y
+  135  sudo service apache2 restart
+  136  clear
+  137  cd /var/www/html
+  138  sudo nano index.php
+  139  sudo nano style.css
+  140  sudo nano index.php
+  141  sudo apt-get update
+  142  sudo apt-get install realvnc-vnc-server realvnc-vnc-viewer
+  143  sudo raspi-config
+  144  sudo ifconfig
+  145  hostname -i
+  146  sudo passwd pi
+  147  shutdown now
+  148  ls
+  149  cd /var/www/html
+  150  ls
+  151  sudo nano index.php
+  152  ls
+  153  /home
+  154  cd /home
+  155  ls
+  156  cd..
+  157  dc ..
+  158  cd ..
+  159  ls
+  160  cd ..
+  161  man history
+  162  history
+  163  cd Desktop
+  164  history > History.txt

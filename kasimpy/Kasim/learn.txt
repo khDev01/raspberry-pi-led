@@ -1,0 +1,14 @@
+C#
+Python
+JavaScript
+HTML
+CSS
+Sass
+Less
+OOCSS
+Jquery
+Json
+
+
+
+In my free time I enjoy learning about web technologies and increase my knowledge; I have started creating simple websites using HTML, CSS and JavaScript. I have a Raspberry Pi in which I have learnt more about Linux systems and using the command line. Additionally, I’ve used my Raspberry pi to create a LAMP web server and learn Git for verion control. Occasionally, I use GitHub in which I use to upload some of my projects. 

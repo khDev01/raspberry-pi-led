@@ -1,0 +1,18 @@
+For 1280x720 {
+
+disable_overscan=1
+
+overscan_left=40
+overscan_right=40
+overscan_top=30
+overscan_bottom=30
+}
+
+For 1920x1080 16:9 CEA mode 31 {
+disable_overscan=1
+
+overscan_left=60
+overscan_right=60
+overscan_top=40
+overscan_bottom=40
+}

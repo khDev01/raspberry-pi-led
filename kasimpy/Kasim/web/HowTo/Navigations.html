@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Navigations</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+
+    <nav >
+      <a href="index.html">Home</a>
+      <a class=" active Simple"  href="Navigations.html">Navigation</a>
+      <div class="dropdown">
+         <button class="dropbtn">Navigation
+           <i class="fa fa-caret-down"></i>
+         </button>
+         <div class="dropdown-content">
+           <a href="#">Dropdowns</a>
+           <a href="#">Icons</a>
+           <a href="navExperiment.html">Experiment</a>
+         </div>
+       </div>
+      <a href="search.html">Search</a>
+      <a href="todo.html">Checkboxes</a>
+      <a href="flexboxBox.html">boxes</a>
+      <a href="grid.html">Grid</a>
+      <a href="navExperiment.html">Experimental nav</a>
+      <a href="unwanted.html">Another page</a>
+    </nav>
+
+    <aside class="icon-bar">
+      <a class="active" href="#"><i class="fa fa-home"></i></a>
+      <a href="#"><i class="fa fa-search"></i></a>
+      <a href="#"><i class="fa fa-envelope"></i></a>
+      <a href="#"><i class="fa fa-globe"></i></a>
+      <a href="#"><i class="fa fa-trash"></i></a>
+    </aside>
+
+    <main>
+      <h2>Dropdowns</h2>
+      <h3>Hover dropdown</h3>
+      <section class="dropdownhvr">
+        <button class="dropbtnhvr">Dropdown</button>
+        <div class="dropdown-content-hvr">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </section>
+      <section class="dropdownclk">
+        <button  onclick="btnClick()" class="dropbtnclk">Dropdown</button>
+        <div id="myDropdown" class="dropdown-content-clk">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </section>
+
+      <br>
+      <br>
+
+      <section class="">
+        <h3>Accordion</h3>
+        <button class="accordion1">Section 1</button>
+        <div class="panel1">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+
+        <button class="accordion1"> Section 2</button>
+        <div class="panel1">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+
+        <button class="accordion1">Section 3</button>
+        <div class="panel1">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+
+        <br>
+        <br>
+
+        <h3>Animated accordion</h3>
+        <button class="accordion2">Section 1</button>
+        <div class="panel2">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+
+        <button class="accordion2">Section 2</button>
+        <div class="panel2">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+
+        <button class="accordion2">Section 3</button>
+        <div class="panel2">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+
+        <br>
+
+        <!-- Tab links -->
+        <h3>Tabs</h3>
+        <div class="tab">
+          <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+          <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+          <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+        </div>
+
+        <!-- Tab content -->
+        <div id="London" class="tabcontent">
+          <h3>London</h3>
+          <p>London is the capital city of England.</p>
+        </div>
+
+        <div id="Paris" class="tabcontent">
+          <h3>Paris</h3>
+          <p>Paris is the capital of France.</p>
+        </div>
+
+        <div id="Tokyo" class="tabcontent">
+          <h3>Tokyo</h3>
+          <p>Tokyo is the capital of Japan.</p>
+        </div>
+
+        <br>
+        <h3>Fade tabs</h3>
+        <h3>Tab content shown by default</h3>
+        <h3>Close tab</h3>
+        <h3>Vertical tabs</h3>
+        <h3>Tab headers</h3>
+        <h3>Page tabs</h3>
+        <h3>Hover tabs</h3>
+        <h3>Top navigation bar</h3>
+        <h3>Responisive topnav</h3>
+
+      </section>
+    </main>
+
+    <script src="scripts.js"></script>
+  </body>
+</html>

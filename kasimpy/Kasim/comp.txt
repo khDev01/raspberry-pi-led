@@ -1,0 +1,74 @@
+Entry Small Business PC £288.60 
+Case:Contour LP-2003 Black mATX Desktop PC Chassis
+CPU:Intel Core i3-7100 3.9Ghz Dual Core CPU
+Motherboard:Gigabyte GA-H110M-S2H H110 mATX Motherboard
+Graphics Card:Standard Graphics Integrated with the CPU
+Memory:16GB DDR4 2400MHz Memory (1x 16GB)
+Primary Storage Drive:240GB 2.5" SSD (480MB/R, 420MB/W)
+CPU Cooling:Intel Standard CPU Cooler
+PSU:250W ATX PSU (FSP250-60HHN)
+Sound Card:Integrated Sound Card On The Motherboard
+
+
+Value Small Business Desktop £333.60 
+Case:Contour LP-2003 Black mATX Desktop PC Chassis
+CPU:Intel Core i3-8100 3.6Ghz 4 Core CPU
+Motherboard:MSI H310M PRO-VDH Plus Motherboard
+Graphics Card:Standard Graphics Integrated with the CPU
+Memory:16GB DDR4 2400MHz Memory (1x 16GB)
+Primary Storage Drive:240GB 2.5" SSD (480MB/R, 420MB/W)
+CPU Cooling:Intel Standard CPU Cooler
+PSU:250W ATX PSU (FSP250-60HHN)
+Sound Card:Integrated Sound Card On The Motherboard
+
+
+AMD Entry Plus Home Ofce PC £303.40
+Case:Contour LP-2003 Black mATX Desktop PC Chassis
+CPU:AMD Ryzen 3 3200G 3.6GHz 4 Core CPU, Radeon Vega 8 Graphics, 4.0GHz Boost
+Motherboard:Gigabyte A320M-H Motherboard
+Graphics Card:Standard Graphics Integrated with the CPU
+Memory:16GB DDR4 2400MHz Memory (1x 16GB)
+Primary Storage Drive:240GB 2.5" SSD (480MB/R, 420MB/W)
+CPU Cooling:AMD Wraith CPU Cooler
+PSU:250W ATX PSU (FSP250-60HHN)
+Sound Card:Integrated Sound Card On The Motherboard
+
+
+Entry Level Home Ofce PC £288.40
+Case:Contour LP-2003 Black mATX Desktop PC Chassis
+CPU:Intel Core i3-7100 3.9Ghz Dual Core CPU
+Motherboard:Gigabyte GA-H110M-S2H H110 mATX Motherboard
+Graphics Card:Standard Graphics Integrated with the CPU
+Memory:16GB DDR4 2400MHz Memory (1x 16GB)
+Primary Storage Drive:240GB 2.5" SSD (480MB/R, 420MB/W)
+CPU Cooling:Intel Standard CPU Cooler
+PSU:250W ATX PSU (FSP250-60HHN)
+Sound Card:Integrated Sound Card On The Motherboard
+ 
+
+Punch LDT, Ryzen 3 2200G, 8GB, 240GB, No OS £249.00
+
+Value Home Office PC £303.60	
+Case:Contour LP-2003 Black mATX Desktop PC Chassis
+CPU:Intel Core i3-9100 3.6Ghz 4 Core CPU with 4.2GHz Turbo
+Motherboard:MSI H310M PRO-VDH Plus Motherboard
+Graphics Card:Standard Graphics Integrated with the CPU
+Memory:8GB DDR4 2400Mhz Memory (1 x 8GB)
+Primary Storage Drive:120GB 2.5" SSD (480MB/R, 320MB/W)
+CPU Cooling:Intel Standard CPU Cooler
+PSU:250W ATX PSU (FSP250-60HHN)
+Sound Card:Integrated Sound Card On The Motherboard
+
+Entry Plus Small Business PC £288.40
+Configuration:
+Case:Contour LP-2003 Black mATX Desktop PC Chassis
+CPU:AMD Ryzen 3 3200G 3.6GHz 4 Core CPU, Radeon Vega 8 Graphics, 4.0GHz Boost
+Motherboard:Gigabyte A320M-S2H Ryzen Motherboard
+Graphics Card:Standard Graphics Integrated with the CPU
+Memory:16GB DDR4 2400MHz Memory (1x 16GB)
+Primary Storage Drive:120GB 2.5" SSD (480MB/R, 320MB/W)
+CPU Cooling:AMD Wraith CPU Cooler
+PSU:250W ATX PSU (FSP250-60HHN)
+Sound Card:Integrated Sound Card On The Motherboard
+
+
